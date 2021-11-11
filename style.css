@@ -1,0 +1,29 @@
+
+.text-block {
+    text-align: justify;
+
+    border-radius: 4px;
+    border: 1px solid lightgray;
+
+    padding: 15px;
+
+    top: 10px;
+    height: calc(100vh - 20px);
+}
+
+.text-block, .main-block {
+    margin-top: 10x;
+}
+
+.main-block {
+    margin-bottom: 10px;
+}
+
+.main-block h2 {
+    text-align: center;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+}
