@@ -66,3 +66,17 @@ p {
 .form-check label {
     color: white;
 }
+
+.i-block .img img{
+    width: 100%;
+}
+
+.i-block h4 {
+    font-size: medium;
+    font-weight: bold;
+}
+
+.i-block p {
+    font-size: small;
+    color: lightgray;
+}
